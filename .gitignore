@@ -1,3 +1,4 @@
 .class
 .cnf.xml
-/bin
+bin/
+
